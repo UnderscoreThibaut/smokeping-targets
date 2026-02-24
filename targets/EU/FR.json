@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Orange OTI",
+        "asn": 5511,
+        "ipv4": "193.251.140.139",
+        "ipv6": false,
+        "location": "Paris",
+        "category": "isp",
+        "notes": "Looking Glass"
+    },
+    {
+        "name": "Orange",
+        "asn": 3215,
+        "ipv4": "80.12.36.35",
+        "ipv6": false,
+        "location": "Paris",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
+    {
+        "name": "Free",
+        "asn": 12322,
+        "ipv4": "212.27.59.206",
+        "ipv6": false,
+        "location": "Paris",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
+    {
+        "name": "SFR",
+        "asn": 15557,
+        "ipv4": "62.39.228.32",
+        "ipv6": false,
+        "location": "Rennes",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
+    {
+        "name": "Bouygues",
+        "asn": 5410,
+        "ipv4": "89.84.1.229",
+        "ipv6": false,
+        "location": "Massy",
+        "category": "isp",
+        "notes": "Speedtest"
+    }
+]
