@@ -1,5 +1,5 @@
 # Eranium SmokePing Targets Project
-# Generated on 2026-02-24 15:24:09
+# Generated on 2026-03-29 16:44:45
 # https://github.com/eranium/smokeping-targets
 
 *** Targets ***
@@ -395,78 +395,9 @@ title = EU - Europe
 menu = DE - Germany
 title = DE - Germany
 
-+++ 3320
-menu = Deutsche Telekom | AS3320
-title = Deutsche Telekom | AS3320
-host = 62.154.17.218
-
-+++ 3320-IPV6
-menu = Deutsche Telekom | AS3320 IPv6
-title = Deutsche Telekom | AS3320 IPv6
-probe = FPing6
-host = 2a12:6900:1000::1
-
-+++ 3209
-menu = Vodafone Germany | AS3209
-title = Vodafone Germany | AS3209
-host = 2.200.0.1
-
-+++ 3209-IPV6
-menu = Vodafone Germany | AS3209 IPv6
-title = Vodafone Germany | AS3209 IPv6
-probe = FPing6
-host = 2a02:8100:c0:1660::1:2
-
-+++ 6805
-menu = Telefonica Germany (o2) | AS6805
-title = Telefonica Germany (o2) | AS6805
-host = 185.93.236.1
-
-+++ 6805-IPV6
-menu = Telefonica Germany (o2) | AS6805 IPv6
-title = Telefonica Germany (o2) | AS6805 IPv6
-probe = FPing6
-host = 2a02:3018::8a
-
-+++ 8881
-menu = 1&1 Versatel Deutschland | AS8881
-title = 1&1 Versatel Deutschland | AS8881
-host = 80.241.192.1
-
-+++ 8881-IPV6
-menu = 1&1 Versatel Deutschland | AS8881 IPv6
-title = 1&1 Versatel Deutschland | AS8881 IPv6
-probe = FPing6
-host = 2001:1438:2:4::9
-
 ++ FR
 menu = FR - France
 title = FR - France
-
-+++ 5511
-menu = Orange OTI | AS5511
-title = Orange OTI | AS5511
-host = 193.251.140.139
-
-+++ 3215
-menu = Orange | AS3215
-title = Orange | AS3215
-host = 80.12.36.35
-
-+++ 12322
-menu = Free | AS12322
-title = Free | AS12322
-host = 212.27.59.206
-
-+++ 15557
-menu = SFR | AS15557
-title = SFR | AS15557
-host = 62.39.228.32
-
-+++ 5410
-menu = Bouygues | AS5410
-title = Bouygues | AS5410
-host = 89.84.1.229
 
 ++ NL
 menu = NL - Netherlands
