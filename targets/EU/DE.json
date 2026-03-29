@@ -30,5 +30,14 @@
         "ipv6": "2001:1438:2:4::9",
         "location": false,
         "category": "isp"
-    }
+    },
+    {
+        "name": "OVHcloud FRA1/LIM",
+        "asn": 16276,
+        "ipv4": "fra1.lg.ovh.net",
+        "ipv6": false,
+        "location": "Limburg",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
 ]
