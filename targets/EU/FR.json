@@ -46,7 +46,7 @@
     },
     {
         "name": "OVHcloud PAR3",
-        "asn": 16276,
+        "asn": 16276.0,
         "ipv4": "par3.lg.ovh.net",
         "ipv6": false,
         "location": "Roubaix",
@@ -55,7 +55,7 @@
     },
     {
         "name": "OVHcloud LIL1/RBX",
-        "asn": 16276,
+        "asn": 16276.1,
         "ipv4": "lil1.lg.ovh.net",
         "ipv6": false,
         "location": "Roubaix",
@@ -64,7 +64,7 @@
     },
     {
         "name": "OVHcloud LIL2/GRA",
-        "asn": 16276,
+        "asn": 16276.2,
         "ipv4": "lil2.lg.ovh.net",
         "ipv6": false,
         "location": "Gravelines",
@@ -73,7 +73,7 @@
     },
     {
         "name": "OVHcloud SBG",
-        "asn": 16276,
+        "asn": 16276.3,
         "ipv4": "sbg.lg.ovh.net",
         "ipv6": false,
         "location": "Strasbourg",
