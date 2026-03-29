@@ -43,5 +43,41 @@
         "location": "Massy",
         "category": "isp",
         "notes": "Speedtest"
-    }
+    },
+    {
+        "name": "OVHcloud PAR3",
+        "asn": 16276,
+        "ipv4": "par3.lg.ovh.net",
+        "ipv6": false,
+        "location": "Roubaix",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
+    {
+        "name": "OVHcloud LIL1/RBX",
+        "asn": 16276,
+        "ipv4": "lil1.lg.ovh.net",
+        "ipv6": false,
+        "location": "Roubaix",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
+    {
+        "name": "OVHcloud LIL2/GRA",
+        "asn": 16276,
+        "ipv4": "lil2.lg.ovh.net",
+        "ipv6": false,
+        "location": "Gravelines",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
+    {
+        "name": "OVHcloud SBG",
+        "asn": 16276,
+        "ipv4": "sbg.lg.ovh.net",
+        "ipv6": false,
+        "location": "Strasbourg",
+        "category": "isp",
+        "notes": "Speedtest"
+    },
 ]
