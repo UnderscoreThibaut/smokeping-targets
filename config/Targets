@@ -1,5 +1,5 @@
 # Eranium SmokePing Targets Project
-# Generated on 2026-03-29 16:48:20
+# Generated on 2026-03-29 16:52:23
 # https://github.com/eranium/smokeping-targets
 
 *** Targets ***
@@ -478,19 +478,19 @@ menu = OVHcloud PAR3 | AS16276
 title = OVHcloud PAR3 | AS16276
 host = par3.lg.ovh.net
 
-+++ 16276
-menu = OVHcloud LIL1/RBX | AS16276
-title = OVHcloud LIL1/RBX | AS16276
++++ 16276.1
+menu = OVHcloud LIL1/RBX | AS16276.1
+title = OVHcloud LIL1/RBX | AS16276.1
 host = lil1.lg.ovh.net
 
-+++ 16276
-menu = OVHcloud LIL2/GRA | AS16276
-title = OVHcloud LIL2/GRA | AS16276
++++ 16276.2
+menu = OVHcloud LIL2/GRA | AS16276.2
+title = OVHcloud LIL2/GRA | AS16276.2
 host = lil2.lg.ovh.net
 
-+++ 16276
-menu = OVHcloud SBG | AS16276
-title = OVHcloud SBG | AS16276
++++ 16276.3
+menu = OVHcloud SBG | AS16276.3
+title = OVHcloud SBG | AS16276.3
 host = sbg.lg.ovh.net
 
 ++ NL
